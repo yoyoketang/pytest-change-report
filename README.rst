@@ -11,7 +11,7 @@ Usage
 
 从github源码安装
 
-   pip install pip install git+
+   pip install git+https://github.com/yoyoketang/pytest-change-report.git
 
 命令行运行示例
 
